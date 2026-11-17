@@ -74,7 +74,7 @@ All routes are prefixed with `/api/v1`.
 ### 1. Clone
 
 ```bash
-git clone https://github.com/deva-ydv/TiffinBox-Delivery.git
+git clone https://github.com/deva-ydv/TiffinBox.git
 cd TiffinBox-Delivery
 ```
 
